@@ -1,4 +1,5 @@
 # AlphaDent
+<img align="right" src="images/Logo_100px.png" alt="Описание" width="100">
 Repository for AlphaDent dataset. It contains links for dataset, train, validation and inference scripts for Yolov8.
 
 ## Dataset links
@@ -22,6 +23,7 @@ There are 3 different pretrained wights available:
 1) Yolo_v8x, 9 classes and 640 input. Download: [Link](https://github.com/ZFTurbo/AlphaDent/releases/download/v1.0/yolov8x_AlphaDent_9_classes_640px.pt)
 2) Yolo_v8x, 9 classes and 960 input. Download: [Link](https://github.com/ZFTurbo/AlphaDent/releases/download/v1.0/yolov8x_AlphaDent_9_classes_960px.pt)
 3) Yolo_v8x, 4 classes and 960 input. Download: [Link](https://github.com/ZFTurbo/AlphaDent/releases/download/v1.0/yolov8x_AlphaDent_4_classes_960px.pt)
+
 
 ## Validation
 
