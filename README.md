@@ -19,9 +19,9 @@ Results of training will be stored in folder `./yolo_seg_x_proj_640`.
 ## Pretrained weights
 
 There are 3 different pretrained wights available: 
-1) Yolo_v8x, 9 classes and 640 input. Download: [Link]()
-2) Yolo_v8x, 9 classes and 960 input. Download: [Link]()
-3) Yolo_v8x, 4 classes and 960 input. Download: [Link]()
+1) Yolo_v8x, 9 classes and 640 input. Download: [Link](https://github.com/ZFTurbo/AlphaDent/releases/download/v1.0/yolov8x_AlphaDent_9_classes_640px.pt)
+2) Yolo_v8x, 9 classes and 960 input. Download: [Link](https://github.com/ZFTurbo/AlphaDent/releases/download/v1.0/yolov8x_AlphaDent_9_classes_960px.pt)
+3) Yolo_v8x, 4 classes and 960 input. Download: [Link](https://github.com/ZFTurbo/AlphaDent/releases/download/v1.0/yolov8x_AlphaDent_4_classes_960px.pt)
 
 ## Validation
 
