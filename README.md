@@ -4,7 +4,7 @@ Repository for AlphaDent dataset. It contains links for dataset, train, validati
 
 ## Dataset links
 
-* Dataset on zenodo, [kaggle](https://www.kaggle.com/competitions/alpha-dent/data), huggingface, [github](https://github.com/ZFTurbo/AlphaDent/releases/tag/v1.1)
+* Dataset on [zenodo](https://zenodo.org/records/16582489), [kaggle](https://www.kaggle.com/competitions/alpha-dent/data), [huggingface](https://huggingface.co/datasets/ZFTurbo/AlphaDent), [github](https://github.com/ZFTurbo/AlphaDent/releases/tag/v1.1)
 
 ## Train
 
