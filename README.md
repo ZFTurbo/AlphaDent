@@ -57,5 +57,19 @@ python3 utils/draw_annotations.py --input_path './AlphaDent/' --output_path './D
 
 ## Citations
 
-TBD
+If you find this work useful please cite:
+
+```
+@misc{sosnin2025alphadentdatasetautomatedtooth,
+      title={AlphaDent: A dataset for automated tooth pathology detection}, 
+      author={Evgeniy I. Sosnin and Yuriy L. Vasilev and Roman A. Solovyev and Aleksandr L. Stempkovskiy and Dmitry V. Telpukhov and Artem A. Vasilev and Aleksandr A. Amerikanov and Aleksandr Y. Romanov},
+      year={2025},
+      eprint={2507.22512},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.22512}, 
+}
+```
+
+
 
